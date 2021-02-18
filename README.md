@@ -2,14 +2,15 @@
 Macro recording tool that uses delta mouse movements, designed for games where normal macrorecorders fail
 
 This tool leverages the LLMouse/MouseDelta libraries by @evilC on the AHK forums:
+
 https://www.autohotkey.com/boards/viewtopic.php?f=19&t=10159
+
 https://www.autohotkey.com/boards/viewtopic.php?f=19&t=26137
 They're included, so downloading them separately is not needed.
 
-IMPORTANT: If you want to record the starting mouse position, you'll 
-need to set "RecordInitialMousePos" to True. It's disabled by default as
- enabling it causes issues with games, which is the main purpose of this
- script.
+IMPORTANT: If you want to record the starting mouse position, you'll need to set "RecordInitialMousePos" to True. 
+
+It's disabled by default as enabling it causes issues with games, which is the main purpose of this script.
 
 
 
