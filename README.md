@@ -1,5 +1,6 @@
 # DeltaMacros
 Macro recording tool that uses delta mouse movements, designed for games where normal macrorecorders fail.
+
 It also records/plays back keyboard inputs.
 
 This tool leverages the LLMouse/MouseDelta libraries by @evilC on the AHK forums:
